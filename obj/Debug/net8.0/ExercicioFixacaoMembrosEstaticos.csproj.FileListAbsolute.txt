@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\bin\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.exe
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\bin\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.deps.json
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\bin\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\bin\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\bin\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\refint\ExercicioFixacaoMembrosEstaticos.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ExercicioFixacaoMembrosEstaticos.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioFixacaoMembrosEstaticos\ExercicioFixacaoMembrosEstaticos\obj\Debug\net8.0\ref\ExercicioFixacaoMembrosEstaticos.dll
